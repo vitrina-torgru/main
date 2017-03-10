@@ -152,7 +152,17 @@ h1 {
     width: 100%;
     text-align: center;
   }
+  .logo img {
+    float: none;
+    margin: 0 auto;
+  }
   section#main {
     margin-top: 250px;
+  }
+  .description h4 {
+    font-size: 36px;
+  }
+  header .description h5 {
+    font-size: 30px;
   }
 }
