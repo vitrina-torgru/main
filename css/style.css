@@ -143,9 +143,9 @@ h1 {
     font-size: 3vw;
   }
 }
-@media screen and (max-width:480px){
+@media screen and (max-width:980px){
   h1 {
-    font-size: 8vw;
+    font-size: 5vw;
   }
   .phone_number h3,
   .logo {
